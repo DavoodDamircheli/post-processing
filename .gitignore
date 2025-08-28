@@ -1,0 +1,12 @@
+# Ignore mesh and HDF5 files
+*.msh
+#*.h5
+mesh_draft
+outputs/*.msh
+outputs/*.h5
+*.h5
+# Ignore editor backup files
+*~
+
+# macOS system file
+.DS_Store
